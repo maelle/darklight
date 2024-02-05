@@ -1,0 +1,11 @@
+Package: darklight
+Title: reprex
+Version: 1.0.0
+Authors@R: 
+    c(person(given = "Jo", family = "Doe", email = "jodoe@dom.ain",
+      role = c("aut", "cre")))
+Description: reprex
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: 
+    rmarkdown
